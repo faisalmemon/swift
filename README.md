@@ -1,4 +1,4 @@
 swift
 =====
 
-swift repo for learning the Swift Programming Language
+Repository for learning the Swift Programming Language
