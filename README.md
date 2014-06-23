@@ -3,6 +3,9 @@ Swift
 
 Repository for learning the Swift Programming Language
 
+I have started working on some project Euler problems.  Hopefully these should be examples
+of clearly written high performance code.
+
 Random Notes
 ============
 
