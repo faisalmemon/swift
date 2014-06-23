@@ -236,5 +236,30 @@ extension Double:AbsoluteValue {
 var b:Double = -333.4
 b.absoluteValue
 
+var t = 0x10
+var tt = 0o10
+var c = 5
+
+let dog: Character = "🐶"
+let cow: Character = "🐮"
+let dogCow = dog + cow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
